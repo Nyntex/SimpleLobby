@@ -1,8 +1,18 @@
-This Repo contains some of the work I did for my RTS System which 
-you can also find here on GitHub. It uses the "Advanced Sessions" Plugin by mordentral 
-(https://github.com/mordentral/AdvancedSessionsPlugin) so full credit to this person.
-It contains 3 Levels and some UI to showcase what it does. It's nothing special 
-but should only show that I'm good with learning new systems and teaching myself stuff.
-The First Level is the main menu and server browser, and the second level is the multiplayer lobby.
-The third level is the level of my RTS system which I had at this point and is nowhere near completion.
-But it never will be in this repo as this should only show some multiplayer and UI experience in UE5
+# SimpleLobby
+This project was made only to showcase that I have experience with Unreal Engines sessions, that I know who authority has and what it means and that I know how to do remote procedure calls to the hosting client as well es replicating general information from one client to the next. The UI is not supposed to be pretty but functional.
+
+This project was made during my 3rd semester at [S4G school for Games](https://www.school4games.net/). The reason for this project is another project I'm working that incorporates this one, or rather, this one was created because of the other, my [RTS System](https://github.com/Nyntex/RTS_System).
+
+---
+
+It has a **Main Menu** that includes a **Server Browser** in which you can create your own lobbies with a player count of up to 8. 
+
+In the lobby the host has total control over all players:
+
+![Host Lobby](readme/HostLobby.png)
+
+While the players can only control their own settings:
+
+![Client Lobby](readme/ClientLobby.png)
+
+Only the host can start the game where all players will be put through the transition map and then together into the game level where the game mode.
