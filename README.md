@@ -17,4 +17,6 @@ While the players can only control their own settings:
 
 Only the host can start the game where all players will be put through the transition map and then together into the game level where the game mode.
 
-This project uses the [Advanced Sessions Plugin](https://vreue4.com/advanced-sessions-binaries) by [mordentral](https://github.com/mordentral) to have access to steam specific functions.
+---
+
+This project uses was made using the [Unreal Engine 5.3](https://www.unrealengine.com/en-US/) by Epic Games and the [Advanced Sessions Plugin](https://vreue4.com/advanced-sessions-binaries) by [mordentral](https://github.com/mordentral) to have access to steam specific functions.
